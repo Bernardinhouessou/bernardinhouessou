@@ -17,8 +17,8 @@
         <li>❤️ I love Dev events, coding, reading (:books:, web novels), manga), new technologies </li>
         <li> and 🤖 because they :dancer:  => :thought_balloon: about the ... developers behind those cool moves 💪</li>  
           <ul>
-             <li> NAO Robot :  https://www.youtube.com/watch?v=2laujomh0JY&ab_channel=TheAmazel </li>  
-             <li> BostonDynamics Robot :  https://www.youtube.com/watch?v=fn3KWM1kuAw&ab_channel=BostonDynamics </li>
+             <li> NAO Robots :  https://www.youtube.com/watch?v=2laujomh0JY&ab_channel=TheAmazel </li>  
+             <li> Boston Dynamics Robots :  https://www.youtube.com/watch?v=fn3KWM1kuAw&ab_channel=BostonDynamics </li>
          </ul>  
 </ul>
 <br>
