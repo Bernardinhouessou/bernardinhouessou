@@ -260,11 +260,5 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
 ![image](https://user-images.githubusercontent.com/20335168/123170021-50b3ee80-d47a-11eb-84e7-1bae380dadf0.png)
 
 
-Score quiz & others
---------------------------------------------------------------------------------------------------
-![alt text](https://github.com/Bernardinhouessou/Projets_Autres/blob/master/OpenClassRoom.PNG)
-
-![alt text](https://github.com/Bernardinhouessou/Projets_Autres/blob/master/QuizLeaderboard.PNG)
-
 
 </p>     
