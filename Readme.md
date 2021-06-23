@@ -182,27 +182,7 @@
          
  <a href="https://www.w3schools.com/cs/" target="_blank">
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  
-         alt="photoshop" width="40" height="40" title ="photoshop"/>   </a> 
-         
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"  
-         alt="facebook" width="40" height="40" title ="facebook"/>   </a>  
-         
- <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"  
-         alt="twitter" width="40" height="40" title ="twitter"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  
-         alt="linkedin" width="40" height="40" title ="linkedin"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  
-         alt="slack" width="40" height="40" title ="slack"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"  
-         alt="google" width="40" height="40" title ="google"/>   </a>  
+         alt="photoshop" width="40" height="40" title ="photoshop"/>   </a>      
   
   <a href="https://www.w3schools.com/cs/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
@@ -214,9 +194,6 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
   
   <a href="https://www.w3schools.com/cs/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  
-<a href="https://www.chartjs.org" target="_blank"> 
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 
 <a href="https://www.chartjs.org" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
