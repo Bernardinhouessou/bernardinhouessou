@@ -39,7 +39,7 @@
   </a>
   
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/azure/azure-original.svg" alt="azure" width="40" height="40" title ="azure"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title ="azure"/> 
   </a>
 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
@@ -190,11 +190,7 @@
  <a href="https://www.w3schools.com/cs/" target="_blank"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg"
          alt="karma" width="40" height="40" title ="karma"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" 
-         alt="jasmine" width="40" height="40" title ="jasmine"/>   </a>  
-  
+
  <a href="https://www.w3schools.com/cs/" target="_blank">
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" 
          alt="webpack" width="40" height="40" title ="webpack"/>   </a>  
