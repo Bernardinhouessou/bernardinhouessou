@@ -192,9 +192,6 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
      alt="bootstrap" width="40" height="40" title="bootstrap"/> </a>  
   
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-
 <a href="https://www.chartjs.org" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
        alt="postman" width="40" height="40"/>  <a href="https://www.python.org" target="_blank"> 
@@ -206,17 +203,15 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
   
   <a href="https://www.chartjs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-       alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> </a>
+       alt="reactnative" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> </a>
   
+ 
   <a href="https://www.chartjs.org" target="_blank"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  
-  <a href="https://www.chartjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"  alt="materialui"    
          alt="materialui" width="40" height="40" /></a>
   
   <a href="https://www.chartjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  alt="pycharm" 
          alt="pycharm" width="40" height="40" /> </a>
 </p>
   
