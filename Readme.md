@@ -39,10 +39,6 @@
   </a>
   
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title ="azure"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
        alt="csharp" width="40" height="40" title ="csharp"/> 
     </a> 
