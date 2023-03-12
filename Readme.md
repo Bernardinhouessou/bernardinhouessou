@@ -66,10 +66,7 @@
        alt="vscode" width="40" height="40" title ="vscode"/> 
     </a> 
     
-     <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" 
-       alt="xcode" width="40" height="40" title ="xcode"/> 
-    </a> 
+
     
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" 
