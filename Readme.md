@@ -23,9 +23,10 @@
 </ul>
 <br>
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-<li>📰📖📚 Medium Articles/Storie: <a href="https://www.w3schools.com/cs/" target="_blank"> https://medium.com/@bernardin.houessou </a></li>
+
 <br>
   <li>📫 How to reach me: @bernardinhouessou </p></li>
+  <li>📰📖📚 Medium Articles/Storie: <a href="https://www.w3schools.com/cs/" target="_blank"> https://medium.com/@bernardin.houessou </a></li>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
