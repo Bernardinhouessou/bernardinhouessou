@@ -5,10 +5,10 @@
 <hr>
 
 <ul>
-  <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, React, Vue, AI, Xamarin, Agile/Scrum/Kanban and Python</li>   
+  <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, React, Vue, AI, Xamarin, Agile/Scrum/Kanban,Python, Jenkins, CI/CD Pipeline, Azure DevOps</li>   
   <li>🔭 I’m currently working on https://github.com/bernardinhouessou/</li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
-  <li>🌱 I’m currently learning Angular , React, Vue </li>
+  <li>🌱 I’m currently learning Angular, React, Vue, Azure, AWS, GCP, DevOps </li>
   <li>🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
   
 <br>
