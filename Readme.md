@@ -26,7 +26,7 @@
 
 <br>
   <li>📫 How to reach me: @bernardinhouessou </p></li>
-  <li>  📰📖📚 Check out some Medium Articles/Stories: <a href="https://medium.com/@bernardin.houessou" target="_blank"> medium.com/@bernardin.houessou </a></li>
+  <li>  📰📖📚 Check out : <a href="https://medium.com/@bernardin.houessou" target="_blank"> some of my Medium Articles/Stories</a></li>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
