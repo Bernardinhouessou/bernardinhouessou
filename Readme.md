@@ -8,7 +8,7 @@
   <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, Xamarin, Agile/Scrum/Kanban and Python</li>   
   <li>🔭 I’m currently working on https://github.com/bernardinhouessou/</li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
-  <li>🌱 I’m currently learning Angular and React </li>
+  <li>🌱 I’m currently learning Angular , React, Vue </li>
   <li>🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
   
 <br>
@@ -23,6 +23,7 @@
 </ul>
 <br>
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
+<li>📰📖📚 Medium Articles/Storie: <a href="https://www.w3schools.com/cs/" target="_blank"> https://medium.com/@bernardin.houessou </a></li>
 <br>
   <li>📫 How to reach me: @bernardinhouessou </p></li>
 <hr>
