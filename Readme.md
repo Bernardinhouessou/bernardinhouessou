@@ -1,5 +1,6 @@
-### <h1 align="center">Hi there 👋 I'm Bernardin, </h1>
-<hr>
+<h1 align="center">
+  Hi there 👋 I'm Bernardin
+</h1>
 
 <ul>
   <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, React, Vue, AI, Xamarin, Agile/Scrum/Kanban,Python, Jenkins, CI/CD Pipeline, Azure DevOps</li>   
@@ -34,6 +35,9 @@ https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoC
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+
 <p align="left" style="background:white;"> 
 
   <a href="https://www.w3schools.com/cs/" target="_blank">
@@ -252,6 +256,13 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title ="pycharm"
          alt="pycharm" width="40" height="40" /> </a>
 </p>
+
+
+
+
+
+
+
   
 <hr>
 <p align="center"> 
