@@ -1,4 +1,4 @@
-### <h2>Hi there 👋 I'm Bernardin, </h2>
+### <h1 align="center">Hi there 👋 I'm Bernardin, </h1>
 <hr>
 
 <ul>
