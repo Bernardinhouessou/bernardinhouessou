@@ -19,7 +19,7 @@
 <p align='center'>
 	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+  <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en" alt="bernardinhouessou" /></p>
 <ul>
   <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, React, Vue, AI, Xamarin, Agile/Scrum/Kanban,Python, Jenkins, CI/CD Pipeline, Azure DevOps</li>   
   <li>🔭 I’m currently working on https://github.com/bernardinhouessou/</li>
