@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>                 I'm Bernardin HOUESSOU, </h3>
+<h3>                 I'm Bernardin, </h3>
 <h3>                                                            a developer with an industrial and software engineering base 😎</h3>
 
 <hr>
@@ -23,10 +23,17 @@
 </ul>
 <br>
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 <br>
   <li>📫 How to reach me: @bernardinhouessou </p></li>
-  <li>  📰📖📚 Check out : <a href="https://medium.com/@bernardin.houessou" target="_blank"> some of my Medium Articles/Stories</a></li>
+  <p align="left">
+   <a href="https://www.linkedin.com/in/bernardinhouessou">
+      <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    </a>
+  </p>
+  
+  <li>  📰📖📚 Check out : <a href="https://medium.com/@bernardin.houessou" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"></a></li>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
