@@ -1,7 +1,4 @@
-### Hi there 👋
-<h3>                 I'm Bernardin, </h3>
-<h3>                                                            a developer with an industrial and software engineering base 😎</h3>
-
+### <h2>Hi there 👋 I'm Bernardin, </h2>
 <hr>
 
 <ul>
