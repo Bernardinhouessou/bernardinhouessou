@@ -260,26 +260,17 @@ alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" t
 
 
 
-
-
-
   
 <hr>
 <p align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardinhouessou&show_icons=true&locale=en&layout=compact" 
-        alt="bernardinhouessou" />
-  
-  
-  <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en" alt="bernardinhouessou" /></p>
- 
- <br>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardinhouessou&" alt="bernardinhouessou" /></p>
-  
-<br>
-
-![image](https://user-images.githubusercontent.com/20335168/123170021-50b3ee80-d47a-11eb-84e7-1bae380dadf0.png)
-
-
-
-</p>     
+	<img align="left" 
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardinhouessou&show_icons=true&locale=en&layout=compact" 
+		alt="bernardinhouessou" />
+</p>
+<p>&nbsp; <img align="center" 
+	src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en" 
+	alt="bernardinhouessou" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardinhouessou&"
+	alt="bernardinhouessou" /></p>
+</p>
