@@ -26,14 +26,6 @@ https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoC
 </li>
 
 <hr>
-<p align="center"> 
-	<img align="left" 
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardinhouessou&show_icons=true&locale=en&layout=compact" 
-		alt="bernardinhouessou" />
-</p>
 <p>&nbsp; <img align="center" 
 	src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en" 
 	alt="bernardinhouessou" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardinhouessou&"
-	alt="bernardinhouessou" /></p>
-</p>
