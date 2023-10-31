@@ -39,7 +39,6 @@
 </ul>
 <br>
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 <br>
     
 <hr>
