@@ -39,8 +39,6 @@
 </ul>
 <br>
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-<br>
-    
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
