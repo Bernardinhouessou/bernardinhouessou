@@ -43,222 +43,223 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="background:white;"> 
 
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" title ="azure"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" title ="bitbucket"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
-       alt="csharp" width="40" height="40" title ="csharp"/> 
-    </a> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" 
-       alt="NET" width="40" height="40" title ="NET"/> 
-    </a> 
-    
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" title ="gitlab"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" 
-       alt="NET Core" width="40" height="40" title ="NET Core"/> 
-    </a> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
-       alt="vscode" width="40" height="40" title ="vscode"/> 
-    </a> 
-    
-
-    
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" 
-       alt="visualstudio" width="40" height="40" title ="visualstudio"/> 
-    </a> 
-    
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" 
-       alt="jetbrains" width="40" height="40" title ="jetbrains"/> 
-    </a> 
-
-   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  
-       alt="html5" width="40" height="40" title ="html5"/> 
-    </a>  
-
-   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  
-       alt="css3" width="40" height="40" title ="css3"/> 
-    </a>  
-
-   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  
-       alt="jquery" width="40" height="40" title ="jquery"/> 
-    </a>    
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  
-       alt="jenkins" width="40" height="40" title ="jenkins"/> 
-    </a> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg"  
-       alt="groovy" width="40" height="40" title ="groovy"/> 
-    </a> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  
-       alt="javascript" width="40" height="40" title ="javascript"/> 
-    </a>    
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  
-       alt="microsoft SQL server" width="40" height="40" title ="microsoft SQL Server"/> 
-    </a>  
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
-       alt="postgresql" width="40" height="40" title ="postgresql"/> 
-    </a> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  
-       alt="mysql" width="40" height="40" title ="mysql"/> 
-    </a>   
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  
-       alt="mongodb" width="40" height="40" title ="mongodb"/> 
-    </a>   
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"  
-       alt="bash" width="40" height="40" title ="bash"/> 
-    </a>  
- 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-       alt="git" width="40" height="40" title ="git"/> 
-    </a>  
-
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  
-       alt="github" width="40" height="40" title ="github"/> 
-    </a>  
-</p>
-
-<p>
-    <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg"
-       alt="knockout" width="40" height="40" title ="knockout"/>
-    </a>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg"  
-         alt="heroku" width="40" height="40" title ="heroku"/>
-  
- <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"   
-         alt="python" width="40" height="40" title ="python"/>  </a>  
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"   
-         alt="java" width="40" height="40" title ="java"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-         alt="npm" width="40" height="40" title ="npm"/>  </a>    
-         
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"  
-         alt="yarn" width="40" height="40" title ="yarn"/>   </a>  
-              
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  
-         alt="webpack" width="40" height="40" title ="webpack"/>   </a>  
-              
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  
-         alt="nginx" width="40" height="40" title ="nginx"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  
-         alt="angularjs" width="40" height="40" title ="angularjs"/>   </a>  
-                  
- <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"  
-         alt="jasmine" width="40" height="40" title ="jasmine"/>   </a>    
-         
- <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg"
-         alt="karma" width="40" height="40" title ="karma"/>   </a>  
-
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" 
-         alt="webpack" width="40" height="40" title ="webpack"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-         alt="react" width="40" height="40" title ="react"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" 
-         alt="typescript" width="40" height="40" title ="typescript"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" 
-         alt="php" width="40" height="40" title ="php"/>   </a>  
-         
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  
-         alt="linux" width="40" height="40" title ="linux"/>   </a>  
-  
- <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"  
-         alt="nodejs" width="40" height="40" title ="nodejs"/>   </a>  
-         
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  
-         alt="photoshop" width="40" height="40" title ="photoshop"/>   </a>      
-      
- <a href="https://www.w3schools.com/cs/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  
-         alt="figma" width="40" height="40" title ="figma"/>   </a>      
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
-alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"> </a>  
-  
-<a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-     alt="bootstrap" width="40" height="40" title="bootstrap"/> </a>  
-  
-<a href="https://www.chartjs.org" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-       alt="postman" width="40" height="40"  title ="postman"   
-       />  <a href="https://www.python.org" target="_blank"> 
-  </a>
-  
-  <a href="https://www.chartjs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   title ="python"   
-       alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
-  
-  <a href="https://www.chartjs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  title ="react"   
-       alt="reactnative" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> </a>
-  
-  <a href="https://www.chartjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"  alt="materialui"  title ="materialui"   
-         alt="materialui" width="40" height="40" /></a>
-  
-  <a href="https://www.chartjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title ="pycharm"
-         alt="pycharm" width="40" height="40" /> </a>
-</p>
-
+<table align="center" style="border-color:transparent;">
+  <tr>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"><br>HTML5
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"><br>CSS3
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"><br>JavaScript
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"><br>Bootstrap
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><br>Git
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"><br>Bash
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"><br>C#
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"><br>.NET
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core"><br>.NET Core
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"><br>VS Code
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="X Code"><br>X Code
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"><br>Visual Studio
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL"><br>SQL
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><br>PostgreSQL
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"><br>MySQL
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"><br>MongoDB
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="DynamoDB"><br>DynamoDB
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"><br>Windows
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"><br>Linux
+    </td>
+    <td align="center" width="50px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="macOS"><br>macOS
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"><br>Azure
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"><br>AWS
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"><br>GCP
+    </td>
+    <td align="center" width="50px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Redmine_logo.svg" alt="Redmine"><br>Redmine
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira"><br>Jira
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"><br>Jenkins
+    </td>
+    <td align="center" width="50px">
+      <img  style="background:white;" src="https://www.cdnlogo.com/logos/s/58/sonarqube.svg" alt="SonarQube"><br>SonarQube
+    </td>
+    <td align="center" width="50px">
+      <img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" alt="Checkmarx"><br>Checkmarx
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"><br>Docker
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><br>Kubernetes
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible"><br>Ansible
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform"><br>Terraform
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku"><br>Heroku
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps"><br>Azure DevOps
+    </td>
+    <td align="center" width="50px">
+      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconboards96.svg" alt="Azure Boards"><br>Azure Boards
+    </td>
+    <td align="center" width="50px">
+      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconpipelines96.svg" alt="Azure Pipelines"><br>Azure Pipelines
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"><br>Typescript
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br>Angular
+    </td>
+    <td align="center" width="50px">
+      <img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular"><br>Angular
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><br>React
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue"><br>Vue
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack"><br>Webpack
+    </td><td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs"><br>NodeJs
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>Python
+    </td>
+    <td align="center" width="50px" height="45px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br>Java
+    </td>
+    <td align="center" width="50px" height="45px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy"><br>Groovy
+    </td>
+    <td align="center" width="50px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion"><br>Notion
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"><br>Redis
+    </td>
+    <td align="center" width="50px">
+      <img src="https://warren-buckley.gallerycdn.vsassets.io/extensions/warren-buckley/iis-express/1.5.0/1638806714856/Microsoft.VisualStudio.Services.Icons.Default" alt="IIS"><br>IIS
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"><br>Nginx
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"><br>Apache
+    </td>
+    <td align="center" width="50px">
+      <img src="https://img.jsdelivr.com/github.com/swagger-api.png" alt="Swagger"><br>Swagger
+    </td>
+    <td align="center" width="50px">
+      <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" alt="Postman"><br>Postman
+    </td>
+    <td align="center" width="50px">
+      <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia"><br>Insomnia
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" alt="TortoiseSVN"><br>TortoiseSVN
+    </td>
+    <td align="center" width="50px">
+      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconrepos96.svg" alt="Azure Repos"><br>Azure Repos
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"><br>GitHub
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket"><br>BitBucket
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab"><br>Gitlab
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains"><br>Jetbrains
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Graphql"><br>Graphql
+    </td>
+    <td align="center" width="50px" height="40">
+      <img style="background: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka"><br>Kafka
+    </td>
+    <td align="center" width="50px">
+      <img src="https://www.cdnlogo.com/logos/r/32/rabbitmq.svg" alt="Rabbitmq"><br>Rabbitmq
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"><br>Selenium
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="Karma"><br>Karma
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="Jasmine"><br>Jasmine
+    </td>
+    <td align="center" width="50px">
+      <img src="https://asset.brandfetch.io/idNbg7d3Ca/idJCellmWz.jpeg" alt="Specflow"><br>Specflow
+    </td>
+    <td align="center" width="50px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9z6Ht8LQmPLAncxkHsbVSWsFIKPhWov-9s93AzRI5LHNiUuoyuJICQn8OMotYSt4uW8&usqp=CAU" alt="gRPC"><br>gRPC
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="Jasmine"><br>Jasmine
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"><br>Figma
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//yarn/yarn-original.svg" alt="yarn"><br>yarn
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"><br>npm
+    </td>
+  </tr>
+<table>
