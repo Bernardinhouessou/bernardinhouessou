@@ -269,11 +269,10 @@
 
 <a href="https://www.credly.com/badges/e7049f83-6f43-4276-abb3-d3a4bdc07aa1/public_url">
 <img width="64px" height="64px" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
-</a
+</a>
 
 <a href="https://github.com/Bernardinhouessou/Projets_Autres/blob/master/Certificats%20MOOC(s)/Microsoft%20certificats/AZ%20204-Microsoft%20Certified%20Azure%20Developer%20Associate.pdf">
-<img width="64px" height="64px" src="https://images.ctfassets.net/94b09zy95xdu/28zSjNdCgmyXUu8I2YXbmo/5f22d78f9514ba53104bd380d3f3df02/microsoft-certified-azure-developer-associate.webp"
-	title="(AZ-204) Microsoft Certified: Azure Developer Associate" alt="(AZ-204) Microsoft Certified: Azure Developer Associate">
+<img width="64px" height="64px" alt="(AZ-204) Microsoft Certified: Azure Developer Associate" title="(AZ-204) Microsoft Certified: Azure Developer Associate" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png">
 </a>
 
 <a href="https://www.credly.com/badges/74b81e8d-1277-4236-aff1-8f01d7d2d25b/public_url">
