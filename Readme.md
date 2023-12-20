@@ -20,26 +20,14 @@
 </p>
 
 <ul>
-  <li>💬 Ask me about:  C#, .NET (WebForms, MVC, WebAPI, MVVM, WPF), .NET Core, Angular, React, Vue, AI, Xamarin, Agile/Scrum/Kanban,Python, Jenkins, CI/CD Pipeline, Azure DevOps</li>   
-  <li>🔭 I’m currently working on https://github.com/bernardinhouessou/</li>
+  <li> 🌱 I’m constantly learning:  .NET, Angular, React, Vue, Azure, AWS, GCP, DevOps ... </li> 
+  <li> ❤️ I love Tech events, coding, reading (:books:, web novels), manga) ... </li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
-  <li>🌱 I’m constantly learning:  .NET, Angular, React, Vue, Azure, AWS, GCP, DevOps ... </li> 
-  <li>🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
-  
-<br>
-  <li>
-      <ul>  
-        <li>❤️ I love Dev events, coding, reading (:books:, web novels), manga), new technologies </li>
-        <li> and 🤖 because they :dancer:  => :thought_balloon: about the ... developers behind those cool moves 💪</li>  
-          <ul>
-             <li> NAO Robots :  https://www.youtube.com/watch?v=2laujomh0JY&ab_channel=TheAmazel </li>  
-             <li> Boston Dynamics Robots :  https://www.youtube.com/watch?v=fn3KWM1kuAw&ab_channel=BostonDynamics </li>
-         </ul>  
-</ul>
-<br>
-<li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-<hr>
+  <li> ⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
+  <li> 🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
 
+</ul>
+<hr>
 
 ### 🛠️ Languages and Tools :
 
