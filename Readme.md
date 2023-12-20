@@ -41,8 +41,8 @@
 <li>⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
 
+### 🛠️ Languages and Tools :
 
 <table align="center" style="border-color:transparent;">
   <tr>
