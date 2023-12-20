@@ -269,7 +269,7 @@
 <img width="64px" height="64px" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
 </a>
 
-<a href="https://github.com/Bernardinhouessou/Projets_Autres/blob/master/Certificats%20MOOC(s)/Microsoft%20certificats/AZ%20204-Microsoft%20Certified%20Azure%20Developer%20Associate.pdf">
+<a href="http://tinyurl.com/AzureDeveloperAssociateAZ-204">
 <img width="64px" height="64px" alt="(AZ-204) Microsoft Certified: Azure Developer Associate" title="(AZ-204) Microsoft Certified: Azure Developer Associate" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png">
 </a>
 
