@@ -263,3 +263,33 @@
     </td>
   </tr>
 <table>
+
+
+### ⭐ Certifications :
+
+<a href="https://www.credly.com/badges/e7049f83-6f43-4276-abb3-d3a4bdc07aa1/public_url">
+<img width="64px" height="64px" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
+</a
+
+<a href="https://github.com/Bernardinhouessou/Projets_Autres/blob/master/Certificats%20MOOC(s)/Microsoft%20certificats/AZ%20204-Microsoft%20Certified%20Azure%20Developer%20Associate.pdf">
+<img width="64px" height="64px" src="https://images.ctfassets.net/94b09zy95xdu/28zSjNdCgmyXUu8I2YXbmo/5f22d78f9514ba53104bd380d3f3df02/microsoft-certified-azure-developer-associate.webp"
+	title="(AZ-204) Microsoft Certified: Azure Developer Associate" alt="(AZ-204) Microsoft Certified: Azure Developer Associate">
+</a>
+
+<a href="https://www.credly.com/badges/74b81e8d-1277-4236-aff1-8f01d7d2d25b/public_url">
+<img width="64px" height="64px" alt="(AI-900)Microsoft Certified: Azure AI Fundamentals" title="(AI-900)Microsoft Certified: Azure AI Fundamentals" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+</a>
+
+<a href="https://www.credly.com/badges/bdc175fe-036f-42a9-b5ba-7a9a52c2e29d">
+<img width="64px" height="64px" alt="(DP-900)Microsoft Certified: Azure Data Fundamentals" title="(DP-900)Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
+</a>
+
+<a href="https://www.credly.com/badges/5799abe3-2cd5-4ae0-8731-47da654fc842/public_url">
+<img width="64px" height="64px" alt="(AZ-900)Microsoft Certified: Azure Fundamentals" title="(AZ-900) Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+</a>
+
+<a href="https://www.credly.com/badges/85e3e0a8-e944-46b9-a2c2-c6b38e4b2c42/public_url">
+<img width="64px" height="64px" alt="(PL-900)Microsoft Certified: Power Platform Fundamentals" title="(PL-900) Microsoft Certified: Power Platform Fundamentals" src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
+</a>
+
+
