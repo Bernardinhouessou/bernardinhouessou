@@ -257,8 +257,20 @@
 <img width="64px" height="64px" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
 </a>
 
+<a href="https://www.credly.com/badges/02f6a527-61e7-4380-b1a2-078485524868/public_url">
+<img width="64px" height="64px" alt="AWS Certified DevOps Engineer – Professional" title="AWS Certified DevOps Engineer – Professional" src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
+</a>
+
+<a href="https://www.credly.com/badges/5a93d72f-60e4-4bc6-b8be-58b7c698df5d/public_url">
+<img width="64px" height="64px" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+</a>
+
 <a href="http://tinyurl.com/AzureDeveloperAssociateAZ-204">
 <img width="64px" height="64px" alt="(AZ-204) Microsoft Certified: Azure Developer Associate" title="(AZ-204) Microsoft Certified: Azure Developer Associate" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png">
+</a>
+
+<a href="http://tinyurl.com/AzureDevOpsEngineerExpertAZ400">
+<img width="64px" height="64px" alt="(AZ-400) Microsoft Certified : Azure DevOps Engineer Expert" title="(AZ-400) Microsoft Certified : Azure DevOps Engineer Expert" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 </a>
 
 <a href="https://www.credly.com/badges/74b81e8d-1277-4236-aff1-8f01d7d2d25b/public_url">
