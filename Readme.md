@@ -20,6 +20,13 @@
 </p>
 
 <ul>
+  <li> !!!  🔎 Freelance( portage salarial) : 
+	  en quête de missions freelance(free-work.com ...) depuis Mai 2023 !!! <a href="https://github.com/Bernardinhouessou/bernardinhouessou/blob/main/img/63%20candidatures(30%20en%20cours%2C%2031%20archive%CC%81es%2C%20%202%20non%20retenues)%20sur%20free-work.png">
+ <a href="https://github.com/Bernardinhouessou/bernardinhouessou/blob/main/img/">  Applications status</a><br>
+</a></li>
+
+
+
   <li> 🌱 I’m constantly learning:  .NET, Angular, React, Vue, Azure, AWS, GCP, DevOps ... </li> 
   <li> ❤️ I love Tech events, coding, reading (:books:, web novels), manga) ... </li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
