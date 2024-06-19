@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A full stack developer :  backend .NET &  frontend Angular.
+  A full stack developer :  backend .NET &  frontend Angular / DevOps(Jenkins, Azure ...).
 </p>
 
 <p align='center'>
