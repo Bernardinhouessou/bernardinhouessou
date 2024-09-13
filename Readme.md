@@ -22,7 +22,7 @@
 <ul>
 
   <li> 🌱 I’m constantly learning:  .NET, Angular, React, Azure, AWS, DevOps ... </li> 
-  <li> ❤️ I love Tech events, coding, reading: books, web novels  ... </li>
+  <li> ❤️ I love Tech events, coding, writing, reading: books, web novels  ... </li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
   <li> ⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
   <li> 🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
