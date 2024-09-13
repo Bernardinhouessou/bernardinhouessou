@@ -28,7 +28,7 @@
 
 
   <li> 🌱 I’m constantly learning:  .NET, Angular, React, Vue, Azure, AWS, GCP, DevOps ... </li> 
-  <li> ❤️ I love Tech events, coding, reading (:books:, web novels), manga) ... </li>
+  <li> ❤️ I love Tech events, coding, reading: books, web novels  ... </li>
   <li> 👯 I’m always on a lookout for collaboration with other developers </li>
   <li> ⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
   <li> 🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
@@ -36,227 +36,97 @@
 </ul>
 <hr>
 
-### 🛠️ Languages and Tools :
-
 <table align="center" style="border-color:transparent;">
-  <tr>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"><br>HTML5
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"><br>CSS3
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"><br>JavaScript
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"><br>Bootstrap
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><br>Git
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"><br>Bash
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"><br>C#
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"><br>.NET
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core"><br>.NET Core
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"><br>VS Code
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="X Code"><br>X Code
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"><br>Visual Studio
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL"><br>SQL
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><br>PostgreSQL
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"><br>MySQL
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"><br>MongoDB
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="DynamoDB"><br>DynamoDB
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"><br>Windows
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"><br>Linux
-    </td>
-    <td align="center" width="50px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="macOS"><br>macOS
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"><br>Azure
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"><br>AWS
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"><br>GCP
-    </td>
-    <td align="center" width="50px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Redmine_logo.svg" alt="Redmine"><br>Redmine
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira"><br>Jira
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"><br>Jenkins
-    </td>
-    <td align="center" width="50px">
-      <img  style="background:white;" src="https://www.cdnlogo.com/logos/s/58/sonarqube.svg" alt="SonarQube"><br>SonarQube
-    </td>
-    <td align="center" width="50px">
-      <img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" alt="Checkmarx"><br>Checkmarx
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"><br>Docker
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><br>Kubernetes
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible"><br>Ansible
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform"><br>Terraform
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku"><br>Heroku
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps"><br>Azure DevOps
-    </td>
-    <td align="center" width="50px">
-      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconboards96.svg" alt="Azure Boards"><br>Azure Boards
-    </td>
-    <td align="center" width="50px">
-      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconpipelines96.svg" alt="Azure Pipelines"><br>Azure Pipelines
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"><br>Typescript
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br>Angular
-    </td>
-    <td align="center" width="50px">
-      <img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular"><br>Angular
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><br>React
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue"><br>Vue
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack"><br>Webpack
-    </td><td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs"><br>NodeJs
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>Python
-    </td>
-    <td align="center" width="50px" height="45px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br>Java
-    </td>
-    <td align="center" width="50px" height="45px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy"><br>Groovy
-    </td>
-    <td align="center" width="50px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion"><br>Notion
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"><br>Redis
-    </td>
-    <td align="center" width="50px">
-      <img src="https://warren-buckley.gallerycdn.vsassets.io/extensions/warren-buckley/iis-express/1.5.0/1638806714856/Microsoft.VisualStudio.Services.Icons.Default" alt="IIS"><br>IIS
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"><br>Nginx
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"><br>Apache
-    </td>
-    <td align="center" width="50px">
-      <img src="https://img.jsdelivr.com/github.com/swagger-api.png" alt="Swagger"><br>Swagger
-    </td>
-    <td align="center" width="50px">
-      <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" alt="Postman"><br>Postman
-    </td>
-    <td align="center" width="50px">
-      <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia"><br>Insomnia
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" alt="TortoiseSVN"><br>TortoiseSVN
-    </td>
-    <td align="center" width="50px">
-      <img src="https://learn.microsoft.com/en-us/azure/devops/media/index/devopsiconrepos96.svg" alt="Azure Repos"><br>Azure Repos
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"><br>GitHub
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket"><br>BitBucket
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab"><br>Gitlab
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains"><br>Jetbrains
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Graphql"><br>Graphql
-    </td>
-    <td align="center" width="50px" height="40">
-      <img style="background: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka"><br>Kafka
-    </td>
-    <td align="center" width="50px">
-      <img src="https://www.cdnlogo.com/logos/r/32/rabbitmq.svg" alt="Rabbitmq"><br>Rabbitmq
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"><br>Selenium
+  <tr>  
+    <td align="center" width="150px">
+	    👨‍💻 Dev<br>
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="Karma"><br>Karma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="Jasmine"><br>Jasmine
+      <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C#" width="50"><br>C#
     </td>
     <td align="center" width="50px">
-      <img src="https://asset.brandfetch.io/idNbg7d3Ca/idJCellmWz.jpeg" alt="Specflow"><br>Specflow
+      <img src="https://learn.microsoft.com/media/logos/logo_net.svg" alt=".NET Core" width="50"><br>.NET
     </td>
     <td align="center" width="50px">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9z6Ht8LQmPLAncxkHsbVSWsFIKPhWov-9s93AzRI5LHNiUuoyuJICQn8OMotYSt4uW8&usqp=CAU" alt="gRPC"><br>gRPC
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50"><br>JavaScript
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="Jasmine"><br>Jasmine
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50"><br>Typescript
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"><br>Figma
+      <img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular" width="50"><br>Angular
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//yarn/yarn-original.svg" alt="yarn"><br>yarn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"><br>React
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"><br>npm
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"><br>Figma
     </td>
   </tr>
-<table>
+  <tr>  
+    <td align="center" width="150px">
+    🛠️ <br>CI/CD
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"><br>Jenkins
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"><br>Docker
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"><br>Kubernetes
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50"><br>Terraform
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps" width="50"><br>Azure DevOps
+    </td>
+    <td align="center" width="50px">
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"><br>AWS
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50"><br>Ansible
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"><br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+    <br>🔒 DevSecOps
+    </td>
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="SonarQube" width="50"><br>SonarQube
+    </td>
+    <td align="center" width="50px">
+      <img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" alt="Checkmarx" width="50"><br>Checkmarx
+    </td>
+    <td align="center" width="50px">
+     <br>Aqua Trivy
+    </td>
+    <td align="center" width="50px">
+     <br>
+    </td>
+    <td align="center" width="50px">
+     <br>
+    </td>
+    <td align="center" width="50px">
+     <br>
+    </td>
+    <td align="center" width="50px">
+     <br>
+    </td>
+    <td align="center" width="50px">
+     <br>
+    </td>
+  </tr>
+</table>
+
+
 
 ### ⭐ Certifications :
 
