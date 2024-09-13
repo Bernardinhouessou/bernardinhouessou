@@ -39,7 +39,7 @@
 <table align="center" style="border-color:transparent;">
   <tr>  
     <td align="center" width="150px">
-	    👨‍💻 Dev<br>
+      👨‍💻 Dev<br>
     </td>
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure
@@ -49,6 +49,9 @@
     </td>
     <td align="center" width="50px">
       <img src="https://learn.microsoft.com/media/logos/logo_net.svg" alt=".NET Core" width="50"><br>.NET
+    </td>  
+    <td align="center" width="50px">
+     <br>
     </td>
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50"><br>JavaScript
@@ -62,13 +65,10 @@
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"><br>React
     </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"><br>Figma
-    </td>
   </tr>
   <tr>  
     <td align="center" width="150px">
-    🛠️ <br>CI/CD
+      🛠️ <br>CI/CD
     </td>
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"><br>Jenkins
@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td align="center" width="150px">
-    <br>🔒 DevSecOps
+      🔒 DevSecOps
     </td>
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="SonarQube" width="50"><br>SonarQube
@@ -106,25 +106,25 @@
       <img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" alt="Checkmarx" width="50"><br>Checkmarx
     </td>
     <td align="center" width="50px">
-     <br>Aqua Trivy
+      Aqua Trivy
     </td>
     <td align="center" width="50px">
-     <br>
+      <br>
     </td>
     <td align="center" width="50px">
-     <br>
+      <br>
     </td>
     <td align="center" width="50px">
-     <br>
+      <br>
     </td>
     <td align="center" width="50px">
-     <br>
     </td>
     <td align="center" width="50px">
      <br>
     </td>
   </tr>
 </table>
+
 
 
 
