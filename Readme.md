@@ -2,93 +2,58 @@
   Hi there 👋 I'm Bernardin 👨‍💻
 </h1>
 
-<p align='center'>
-  A full stack developer :  backend .NET &  frontend Angular / DevOps(Jenkins, Azure ...).
+<p align="center">
+  A full stack developer: backend .NET & frontend Angular / DevOps(Jenkins, Azure ...).
 </p>
 
-<p align='center'>
-	<a href="https://www.linkedin.com/in/bernardinhouessou/">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>&nbsp;&nbsp;
-	<a href="https://medium.com/@bernardin.houessou">
-	<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-	</a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernardinhouessou/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@bernardin.houessou">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en&count_private=true&theme=dark" width="350"></a>
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <ul>
-
-  <li> 🌱 I’m constantly learning:  .NET, Angular, React, Azure, AWS, DevOps ... </li> 
-  <li> ❤️ I love Tech events, coding, writing, reading: books, web novels  ... </li>
-  <li> 👯 I’m always on a lookout for collaboration with other developers </li>
-  <li> ⚡ Fun fact: I'm always with unparalleled ideas that I don't even know how to express</li>
-  <li> 🥅 Goals : code awesome ideas following craftmanship rules (BDD, TDD ...) & be unique</li>
-
+  <li> 🌱 I’m constantly learning: .NET, Angular, React, Azure, AWS, DevOps ... </li>
+  <li> ❤️ I love Tech events, coding, writing, reading: books, web novels ... </li>
+  <li> 👯 I’m always on the lookout for collaboration with other developers </li>
+  <li> ⚡ Fun fact: I'm always full of unparalleled ideas that I don't even know how to express</li>
+  <li> 🥅 Goals: code awesome ideas following craftsmanship rules (BDD, TDD ...) & be unique</li>
 </ul>
+
 <hr>
 
-<table align="center" style="border-color:transparent;">
-  <tr>  
-    <td align="center" width="150px">
-      👨‍💻 Dev<br>
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure
-    </td>
-    <td align="center" width="50px">
-      <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C#" width="50"><br>C#
-    </td>
-    <td align="center" width="50px">
-      <img src="https://learn.microsoft.com/media/logos/logo_net.svg" alt=".NET Core" width="50"><br>.NET
-    </td>  
-    <td align="center" width="50px">
-     <br>
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50"><br>JavaScript
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50"><br>Typescript
-    </td>
-    <td align="center" width="50px">
-      <img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular" width="50"><br>Angular
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"><br>React
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" width="150px">
-      🛠️ <br>CI/CD
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"><br>Jenkins
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"><br>Docker
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"><br>Kubernetes
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50"><br>Terraform
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps" width="50"><br>Azure DevOps
-    </td>
-    <td align="center" width="50px">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"><br>AWS
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50"><br>Ansible
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"><br>Python
-    </td>
-  </tr>
+<!-- Use a container to center the tables and apply responsive behavior -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="border-color: transparent;">
+    <tr>
+      <td align="center" width="150px"> 👨‍💻 Dev <br> </td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure</td>
+      <td align="center" width="50px"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C#" width="50"><br>C#</td>
+      <td align="center" width="50px"><img src="https://learn.microsoft.com/media/logos/logo_net.svg" alt=".NET Core" width="50"><br>.NET</td>
+      <td align="center" width="50px"><br></td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50"><br>JavaScript</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50"><br>Typescript</td>
+      <td align="center" width="50px"><img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular" width="50"><br>Angular</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"><br>React</td>
+    </tr>
+    <tr>
+      <td align="center" width="150px"> 🛠️ <br>CI/CD </td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"><br>Jenkins</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"><br>Docker</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"><br>Kubernetes</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50"><br>Terraform</td>
+      <td align="center" width="50px"><img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps" width="50"><br>Azure DevOps</td>
+      <td align="center" width="50px"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"><br>AWS</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50"><br>Ansible</td>
+      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"><br>Python</td>
+    </tr>  
   <tr>
     <td align="center" width="150px">
       🔒 DevSecOps
@@ -117,8 +82,12 @@
      <br>
     </td>
   </tr>
-</table>
-<table align="center" style="border-color:transparent;">
+  </table>
+</div>
+
+<!-- Repeat for other tables with the same flex container -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="border-color: transparent;">
   <tr>  
     <td align="center" width="100px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure
@@ -156,12 +125,7 @@
         <img width="64px" height="64px" alt="(PL-900) Microsoft Certified: Power Platform Fundamentals" title="(PL-900) Microsoft Certified: Power Platform Fundamentals" src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
       </a><br>PL-900
     </td>
-    <td align="center" width="100px">
-      <br>
-    </td>
-    <td align="center" width="64px">
-      <br>
-    </td>
+  
   </tr>
   <tr>  
     <td align="center" width="100px">
@@ -193,11 +157,6 @@
     <td align="center" width="100px">
       <br>
     </td>
-    <td align="center" width="100px">
-      <br>
-    </td>
-    <td align="center" width="64px">
-    </td>
   </tr>
   <tr>  
     <td align="center" width="100px">
@@ -222,18 +181,28 @@
     </td>
     <td align="center" width="100px">
       <br>
-    </td>
-    <td align="center" width="100px">
+    </td><td align="center" width="100px">
       <br>
-    </td>
-    <td align="center" width="100px">
-      <br>
-    </td>
-    <td align="center" width="64px">
     </td>
   </tr>
-</table>
+  </table>
+</div>
 
+
+<!-- Repeat for other tables with the same flex container -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="border-color: transparent;">
+    <!-- Additional rows here -->
+  </table>
+</div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Bernardinhouessou&icon=1&color=1)](https://visitcount.itsvg.in) <br>
+  <a href="https://www.buymeacoffee.com/bernardinhouessou">
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="bernardinhouessou" /></a>
+
+https://buymeacoffee.com/bernardinhouessou
 
 <picture>
   <source
