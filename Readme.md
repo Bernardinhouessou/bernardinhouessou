@@ -45,13 +45,17 @@ Here are some ideas to get you started:
 <hr>
 
 
-
-
 ## Languages and Tools:
 <div align="left">
+ <code><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" height="30" alt="csharp logo"  /></code>
+  <img width="12" />
+ <code><img src="https://learn.microsoft.com/media/logos/logo_net.svg" height="30" alt="dotnet logo"  /></code>
+  <img width="12" />
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
+  <img width="12" />
+   <code><img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" height="30" alt="angular logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
