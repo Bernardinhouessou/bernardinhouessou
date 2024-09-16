@@ -71,6 +71,12 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
   <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-plain-wordmark.svg" height="30" alt="sonarqube logo"  /></code>
+  <img width="12" />
+  <code><img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" height="30" alt="checkmarx logo"  /></code>
+  <img width="12" />
+   <code><img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" height="30" alt="trivy logo"  /></code>
+  <img width="12" />
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="30" alt="ansible logo"  /></code>
   <img width="12" />
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  /></code>
