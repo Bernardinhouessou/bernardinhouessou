@@ -30,10 +30,6 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bernardinhouessou&show_icons=true&locale=en&count_private=true&theme=dark" width="350"></a>
-</p>
-
 <ul>
   <li> 🌱 I’m constantly learning: .NET, Angular, React, Azure, AWS, DevOps ... </li>
   <li> ❤️ I love Tech events, coding, writing, reading: books, web novels ... </li>
