@@ -36,7 +36,6 @@ Here are some ideas to get you started:
   <li> 🥅 Goals: build awesome apps following craftsmanship rules (TDD, Clean ...)</li>
 </ul>
 
-<hr>
 
 ## Languages and Tools:
 <div align="left">
