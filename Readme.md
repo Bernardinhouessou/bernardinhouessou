@@ -247,9 +247,8 @@ Here are some ideas to get you started:
   </table>
 </div>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Bernardinhouessou&icon=1&color=1)](https://visitcount.itsvg.in) <br>
+[![](https://visitcount.itsvg.in/api?id=Bernardinhouessou&icon=1&color=1)](https://www.buymeacoffee.com/bernardinhouessou) <br>
   <a href="https://www.buymeacoffee.com/bernardinhouessou">
   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="bernardinhouessou" /></a>
 
