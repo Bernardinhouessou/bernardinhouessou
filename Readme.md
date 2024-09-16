@@ -123,9 +123,9 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="postman logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  /></code>
   <!--   <img width="12" /> -->
   <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
   <img width="12" />
