@@ -44,10 +44,18 @@ Here are some ideas to get you started:
 
 <hr>
 
-
-## Languages and Tools:
-<div align="left">
- <code><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" height="30" alt="csharp logo"  /></code>
+<table align="left">
+  <thead>
+    <tr>
+      <th>👨‍💻 Dev</th>
+      <th>🛠️ CI/CD</th>
+      <th>🔒 DevSecOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <code><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" height="30" alt="csharp logo"  /></code>
   <img width="12" />
  <code><img src="https://learn.microsoft.com/media/logos/logo_net.svg" height="30" alt="dotnet logo"  /></code>
   <img width="12" />
@@ -63,45 +71,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="12" /> 
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-line.svg" height="30" alt="sonarqube logo"  /></code>
-  <img width="12" />
-  <code><img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" height="30" alt="checkmarx logo"  /></code>
-  <img width="12" />
-   <code><img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" height="30" alt="trivy logo"  /></code>
-  <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="30" alt="ansible logo"  /></code>
-  <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  /></code>
-  <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
-  <img width="12" />
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-plain.svg" height="30" alt="azuredevops logo"  /></code>
-  <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
   <img width="12" />
@@ -126,77 +96,67 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="postman logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
-  <img width="12" />
+          <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
-</div>
-
-
-
-
-
-
-
-<!-- Use a container to center the tables and apply responsive behavior -->
-<div style="display: flex; justify-content: center; width: 100%;">
-  <table style="border-color: transparent;">
-    <tr>
-      <td align="center" width="150px"> 👨‍💻 Dev <br> </td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"><br>Azure</td>
-      <td align="center" width="50px"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C#" width="50"><br>C#</td>
-      <td align="center" width="50px"><img src="https://learn.microsoft.com/media/logos/logo_net.svg" alt=".NET Core" width="50"><br>.NET</td>
-      <td align="center" width="50px"><br></td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50"><br>JavaScript</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50"><br>Typescript</td>
-      <td align="center" width="50px"><img src="https://raw.githubusercontent.com/Bernardinhouessou/bernardinhouessou/main/img/angular_gradient.png" alt="Angular" width="50"><br>Angular</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"><br>React</td>
+      </td>
+      <td align="left">
+         <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" /> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
+  
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="30" alt="ansible logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
+  <img width="12" />
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-plain.svg" height="30" alt="azuredevops logo"  /></code>
+  <img width="12" />
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
+  <img width="12" />
+      </td>
+      <td align="left">
+       <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-line.svg" height="30" alt="sonarqube logo"  /></code>
+  <img width="12" />
+  <code><img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" height="30" alt="checkmarx logo"  /></code>
+  <img width="12" />
+   <code><img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" height="30" alt="trivy logo"  /></code>
+  <img width="12" />
+      </td>
     </tr>
-    <tr>
-      <td align="center" width="150px"> 🛠️ <br>CI/CD </td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"><br>Jenkins</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"><br>Docker</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"><br>Kubernetes</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50"><br>Terraform</td>
-      <td align="center" width="50px"><img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3521296-2944715.png" alt="Azure DevOps" width="50"><br>Azure DevOps</td>
-      <td align="center" width="50px"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"><br>AWS</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50"><br>Ansible</td>
-      <td align="center" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"><br>Python</td>
-    </tr>  
-  <tr>
-    <td align="center" width="150px">
-      🔒 DevSecOps
-    </td>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="SonarQube" width="50"><br>SonarQube
-    </td>
-    <td align="center" width="50px">
-      <img src="https://checkmarx.com/wp-content/uploads/2021/04/checkmarx-logo-mobile.png" alt="Checkmarx" width="50"><br>Checkmarx
-    </td>
-    <td align="center" width="50px">
-      Aqua Trivy
-    </td>
-    <td align="center" width="50px">
-      <br>
-    </td>
-    <td align="center" width="50px">
-      <br>
-    </td>
-    <td align="center" width="50px">
-      <br>
-    </td>
-    <td align="center" width="50px">
-    </td>
-    <td align="center" width="50px">
-     <br>
-    </td>
-  </tr>
-  </table>
-</div>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
 
 <!-- Repeat for other tables with the same flex container -->
 <div style="display: flex; justify-content: center; width: 100%;">
