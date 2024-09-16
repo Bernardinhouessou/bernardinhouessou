@@ -129,30 +129,21 @@ Here are some ideas to get you started:
 </div>
 
 
-## Certifications( Click  ⇨/⇩ 👀 ):
+## Certifications:
 <div align="left">
 
 <details open>
-  <summary><!--   MSFT  --><code><img width="30px" height="25" alt="microsoft" title="microsoft" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-MS-32x32-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fmt=png-alpha&fit=constrain"> </code><a href="https://github.com/Bernardinhouessou/Projets_Autres/tree/master/Certificats%20MOOC(s)/Microsoft%20certificats"> Microsoft </a><img width="12" /> | Click ⬇️ ⇨ !</summary>
-<code><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="50px alt="(AZ-400) Microsoft Certified: Azure DevOps Engineer Expert logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="50px alt="(AZ-204) Microsoft Certified: Azure Developer Associate logo"  /></code><img width="12" />
-  <code><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="50px alt="(AI-900) Microsoft Certified: Azure AI Fundamentals logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="50px alt="(DP-900) Microsoft Certified: Azure Data Fundamentals logo"  /><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="50px alt="AZ-900) Microsoft Certified: Azure Fundamentals logo"  /></code> <img width="12" /><code><img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="50px alt="(PL-900) Microsoft Certified: Power Platform Fundamentals logo"  /></code><img width="12" />
-</details
-  
-
-<!--   AWS  -->
-
- <code><details open>
-  <summary><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" height="50px alt="aws logo"  /><a href="https://www.credly.com/users/bernardin-houessou"> Amazon Web Services </a>
-  </summary>
-
- <code><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" height="50px alt="aws Certified DevOps Engineer – Professional logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="50px alt="aws Certified Developer – Associate logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="50px alt="aws Certified Solutions Architect – Associate logo"  /></code><img width="12" />
+<summary><!--   MSFT  --><img width="30px" height="25" alt="microsoft" title="microsoft" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-MS-32x32-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fmt=png-alpha&fit=constrain"> <img width="8" /><img width="8" /></code><a href="https://github.com/Bernardinhouessou/Projets_Autres/tree/master/Certificats%20MOOC(s)/Microsoft%20certificats"><img width="8" />👀 </a>  |  <a href="https://learn.microsoft.com/fr-fr/users/bernardinhouessou-229-33"> | 🏆  </a><img width="12" /></summary>
+<img height="70px"/><code><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="50px alt="(AZ-400) Microsoft Certified: Azure DevOps Engineer Expert logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="50px alt="(AZ-204) Microsoft Certified: Azure Developer Associate logo"  /></code><img width="12" />
+<code><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="50px alt="(AI-900) Microsoft Certified: Azure AI Fundamentals logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="50px alt="(DP-900) Microsoft Certified: Azure Data Fundamentals logo"  /><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="50px alt="AZ-900) Microsoft Certified: Azure Fundamentals logo"  /></code> <img width="12" /><code><img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="50px alt="(PL-900) Microsoft Certified: Power Platform Fundamentals logo"/></code></details><details open><summary><!-- AWS --><img width="45px" height="50px" alt="aws logo" title="aws" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code><img width="12px" /><a href="https://www.credly.com/users/bernardin-houessou"> 👀 | 🏆 </a></summary><img height="70px"/></code><code><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" height="50px alt="aws Certified DevOps Engineer – Professional logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="50px alt="aws Certified Developer – Associate logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="50px alt="aws Certified Solutions Architect – Associate logo"  /></code>
 </details>
-  
-  
+<details open>
+<summary><!--   The Linux Foundation   --><img width="60px" height="25" alt="microsoft" title="thelinuxfoundation" src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg"> </code>  <img width="8" /><img width="8" /><a href="https://www.credly.com/users/bernardin-houessou"> 👀 | 🏆</a></summary>
+<img height="70px"/><code><img src="https://images.credly.com/size/680x680/images/62081479-8c0a-4db6-8cfa-3cfbd8b5b7e6/blob" height="50px alt="LFC112: Creating Effective Documentation for Developers logo"  /></code><img width="12" /><code><img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="50px alt="CKAD: Certified Kubernetes Application Developer"  /></code><img width="12" />
+</details
 
-<!--   The Linux Foundation  -->
 
-<img src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg" width="50px" height="50px" alt="thelinuxfoundation logo"  /><a href="https://www.credly.com/users/bernardin-houessou"><code><img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="50px alt="CKAD: Certified Kubernetes Application Developer"  /></code><img width="12" /> </a></code><img width="12" /></div>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bernardinhouessou&icon=1&color=1)](https://www.buymeacoffee.com/bernardinhouessou) <br>
