@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <ul>
   <li> 🌱 I’m constantly learning: .NET, Angular, React, Azure, AWS, DevOps ... </li>
   <li> ❤️ I love Tech events, coding, writing, reading: books, web novels ... </li>
-  <li> 🥅 Goals: build awesome apps following craftsmanship rules (TDD, Clean ...) & be unique</li>
+  <li> 🥅 Goals: build awesome apps following craftsmanship rules (TDD, Clean ...)</li>
 </ul>
 
 <hr>
