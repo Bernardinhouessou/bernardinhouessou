@@ -132,59 +132,24 @@ Here are some ideas to get you started:
 
 ## Certifications:
 <div align="left">
-  
- <code><img width="12px" height="12px" alt="MS learn Profile" title="MS learn Profile" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-MS-32x32-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fmt=png-alpha&fit=constrain"> <a href="https://learn.microsoft.com/en-us/users/bernardinhouessou-229-33/">Profile</a>
- </code>
-  <img width="12" />
- <code><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="50" alt="(AZ-400) Microsoft Certified: Azure DevOps Engineer Expert logo"  />
- </code>
-  <img width="12" />
- <code><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="30" alt="(AZ-204) Microsoft Certified: Azure Developer Associate logo"  /></code>
-  <img width="12" />
-  <code><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="30" alt="(AI-900) Microsoft Certified: Azure AI Fundamentals logo"  /></code>
-  <img width="12" />
-   <code><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="30" alt="(DP-900) Microsoft Certified: Azure Data Fundamentals logo"  />
-  <img width="12" />
-    <code><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="30" alt="AZ-900) Microsoft Certified: Azure Fundamentals logo"  /></code>
-  <img width="12" />
-   <code><img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="30" alt="(PL-900) Microsoft Certified: Power Platform Fundamentals logo"  /></code>
+  <!--   MSFT  -->
+ <code><img width="30px" height="50px" alt="MS learn Profile" title="MS learn Profile" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-MS-32x32-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fmt=png-alpha&fit=constrain"> <a href="https://learn.microsoft.com/en-us/users/bernardinhouessou-229-33/">Profile</a></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="80" alt="(AZ-400) Microsoft Certified: Azure DevOps Engineer Expert logo"  /></code>
+  <img width="12" /><code><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="80" alt="(AZ-204) Microsoft Certified: Azure Developer Associate logo"  /></code><img width="12" />
+  <code><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="80" alt="(AI-900) Microsoft Certified: Azure AI Fundamentals logo"  /></code><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="80" alt="(DP-900) Microsoft Certified: Azure Data Fundamentals logo"  /><img width="12" /><code><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="80" alt="AZ-900) Microsoft Certified: Azure Fundamentals logo"  /></code> <img width="12" /><code><img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="80" alt="(PL-900) Microsoft Certified: Power Platform Fundamentals logo"  /></code><img width="12" /><code>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" alt="aws logo"  /></code><img width="12" />
+  <!--   AWS  -->
   <img width="12" />
  <code>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  /></code>
-  <img width="12" />
-    </td> 
-
-
-## Certifications:
-<div align="left">
-  
- <code><img width="12px" height="12px" alt="MS learn Profile" title="MS learn Profile" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-MS-32x32-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fmt=png-alpha&fit=constrain"> <a href="https://learn.microsoft.com/en-us/users/bernardinhouessou-229-33/">Profile</a>
- </code>
-  <img width="12" />
- <code><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="50" alt="(AZ-400) Microsoft Certified: Azure DevOps Engineer Expert logo"  />
- </code>
-  <img width="12" />
- <code><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="30" alt="(AZ-204) Microsoft Certified: Azure Developer Associate logo"  /></code>
-  <img width="12" />
-  <code><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="30" alt="(AI-900) Microsoft Certified: Azure AI Fundamentals logo"  /></code>
-  <img width="12" />
-   <code><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="30" alt="(DP-900) Microsoft Certified: Azure Data Fundamentals logo"  />
-  <img width="12" />
-    <code><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="30" alt="AZ-900) Microsoft Certified: Azure Fundamentals logo"  /></code>
-  <img width="12" />
-   <code><img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="30" alt="(PL-900) Microsoft Certified: Power Platform Fundamentals logo"  /></code>
-  <img width="12" />
- <code>
-      <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" height="30" alt="aws Certified DevOps Engineer – Professional logo"  /></code>
+      <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" height="80" alt="aws Certified DevOps Engineer – Professional logo"  /></code>
   <img width="12" />
   <code>
-       <img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="30" alt="aws Certified Developer – Associate logo"  /></code>
+       <img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="80" alt="aws Certified Developer – Associate logo"  /></code>
    <img width="12" />
 <code>
-        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="30" alt="aws Certified Solutions Architect – Associate logo"  /></code>
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="80" alt="aws Certified Solutions Architect – Associate logo"  /></code>
     <img width="12" />
     <code>
-         <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="30" alt="CKAD: Certified Kubernetes Application Developer"  /></code>
+         <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="80" alt="CKAD: Certified Kubernetes Application Developer"  /></code>
      <img width="12" />
 </div>
 <hr>
