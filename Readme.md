@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 <details open>
 <summary><!--   The Linux Foundation   --><img width="60px" height="25" alt="microsoft" title="thelinuxfoundation" src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg"> </code>  <img width="8" /><img width="8" /><a href="https://www.credly.com/users/bernardin-houessou"> 👀 | 🏆</a></summary>
 <img height="70px"/><code><img src="https://images.credly.com/size/680x680/images/62081479-8c0a-4db6-8cfa-3cfbd8b5b7e6/blob" height="50px alt="LFC112: Creating Effective Documentation for Developers logo"  /></code><img width="12" /><code><img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="50px alt="CKAD: Certified Kubernetes Application Developer"  /></code><img width="12" />
-</details
+</details>
 
 
 </div>
