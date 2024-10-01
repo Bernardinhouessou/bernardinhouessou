@@ -123,8 +123,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
