@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <li> 🌱 I’m constantly learning: .NET, Angular, React, Azure, AWS, DevOps ... </li>
   <li> ❤️ I love Tech events, coding, writing, reading: books, web novels ... </li>
   <li> 🥅 Goals: build awesome apps following craftsmanship rules (TDD, Clean ...)</li>
-  <li> ✨ Hobbies : ⌨️ IT dev,👨‍💻 Reverse engineering, 🐛 Bug researcher, 👀 Watching anime , 🎮 Gamoing ... </li>
+  <li> ✨ Hobbies : ⌨️ IT dev,👨‍💻 Reverse engineering, 🐛 Bug researcher, 👀 Watching anime , 🎮 Gaming ... </li>
 </ul>
 
 
